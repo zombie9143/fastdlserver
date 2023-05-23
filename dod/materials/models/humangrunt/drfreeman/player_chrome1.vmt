@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$envmap" "models/humangrunt/drfreeman/PLAYER_Chrome1"
-	"$color2" "[0 0 0]"
-
-	// requred to see specular on dx6+7 at all
-	"$multipass" 1
-}
